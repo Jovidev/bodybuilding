@@ -1,34 +1,37 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="lT5LxbZh8sQpEu55q_Of">
-    <mxGraphModel dx="637" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wH3S4aw8NYA8fys8lTW-1" target="1wH3S4aw8NYA8fys8lTW-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wH3S4aw8NYA8fys8lTW-1" target="1wH3S4aw8NYA8fys8lTW-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.9999999999998" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1wH3S4aw8NYA8fys8lTW-3">
-          <mxGeometry x="0.0101" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1wH3S4aw8NYA8fys8lTW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.66000000000025" y="200" as="targetPoint" />
+            <mxPoint x="424.66000000000025" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wH3S4aw8NYA8fys8lTW-1" value="Gym Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wH3S4aw8NYA8fys8lTW-2" target="1wH3S4aw8NYA8fys8lTW-4">
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-15" value="Usuário pode salvar treinos e quantidade de carga do exercicios&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539.9999999999998" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-18" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.0000000000003" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wH3S4aw8NYA8fys8lTW-21" target="1wH3S4aw8NYA8fys8lTW-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wH3S4aw8NYA8fys8lTW-2" target="1wH3S4aw8NYA8fys8lTW-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-21" value="Login/Cadastro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-2" value="armazenar pesos e series" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-4" value="timer de descanso&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wH3S4aw8NYA8fys8lTW-6" value="timer da serie" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="1wH3S4aw8NYA8fys8lTW-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
